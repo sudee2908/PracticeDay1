@@ -3,4 +3,5 @@ Automation
 Scripting
 Linux
 Monitoring tools
+GCP
 
