@@ -1,0 +1,6 @@
+Cloud concepts
+Automation
+Scripting
+Linux
+Monitoring tools
+
